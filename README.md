@@ -1,7 +1,7 @@
 # MayNeuralNetwork
 
 
-![Version](https://img.shields.io/github/manifest-json/v/maystudios/MayNeuralNetwork?color=criti) ![Code Size](https://img.shields.io/github/languages/code-size/maystudios/MayNeuralNetwork?color=blue) [![License](https://img.shields.io/github/license/maystudios/MayNeuralNetwork?color=orange)](https://www.apache.org/licenses/LICENSE-2.0) ![Commits](https://img.shields.io/github/commit-activity/m/maystudios/MayNeuralNetwork?color=blue) 
+![Version](https://img.shields.io/github/manifest-json/v/maystudios/MayNeuralNetwork?color=critic) ![Code Size](https://img.shields.io/github/languages/code-size/maystudios/MayNeuralNetwork?color=blue) [![License](https://img.shields.io/github/license/maystudios/MayNeuralNetwork?color=orange)](https://www.apache.org/licenses/LICENSE-2.0) ![Commits](https://img.shields.io/github/commit-activity/m/maystudios/MayNeuralNetwork?color=blue) 
 
 A convolutional neural network for image recorgnition7
 
