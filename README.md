@@ -72,7 +72,7 @@ The model architecture consists of multiple convolutional and pooling layers, as
 
 The following diagram shows the architecture of the model:
 
-![Architecture Diagram](architecture.png)
+![Architecture Diagram](docs/image.png)
 
 ## Results
 
