@@ -1,0 +1,13 @@
+{
+  "content_security_policy": "script-src 'self' https://example.com; object-src 'self'",
+
+  "default_locale": "en",
+
+  "description": "A minecraft forge mod for handling redstone actions via Cuda!",
+
+  "manifest_version": 1,
+
+  "name": "May Redstone",
+
+  "version": "1.0.3-alpha"
+}
