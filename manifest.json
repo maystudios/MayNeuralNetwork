@@ -3,11 +3,11 @@
 
   "default_locale": "en",
 
-  "description": "A minecraft forge mod for handling redstone actions via Cuda!",
+  "description": "A convolutional neural network for image recorgnition",
 
   "manifest_version": 1,
 
-  "name": "May Redstone",
+  "name": "May Neural Network",
 
-  "version": "1.0.3-alpha"
+  "version": "1.0.0-alpha"
 }
